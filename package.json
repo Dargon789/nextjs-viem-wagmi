@@ -24,7 +24,7 @@
     "react-dom": "19.0.0",
     "typescript": "5.7.3",
     "viem": "2.23.5",
-    "wagmi": "2.9.6"
+    "wagmi": "2.14.13"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.3"
