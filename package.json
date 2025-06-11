@@ -20,7 +20,7 @@
     "eslint-config-next": "14.2.3",
     "next": "15.2.3",
     "postcss": "8.4.28",
-    "react": "19.0.0",
+    "react": "19.1.0",
     "react-dom": "19.0.0",
     "typescript": "5.8.2",
     "viem": "2.23.5",
