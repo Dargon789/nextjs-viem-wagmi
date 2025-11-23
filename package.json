@@ -17,14 +17,14 @@
     "@types/react-dom": "18.2.7",
     "autoprefixer": "10.4.15",
     "eslint": "9.23.0",
-    "eslint-config-next": "14.2.3",
+    "eslint-config-next": "15.0.0",
     "next": "15.2.3",
     "postcss": "8.4.28",
     "react": "19.1.0",
     "react-dom": "19.0.0",
     "typescript": "5.8.2",
     "viem": "2.23.5",
-    "wagmi": "2.14.16"
+    "wagmi": "3.0.0"
   },
   "devDependencies": {
     "tailwindcss": "^4.1.7"
