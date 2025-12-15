@@ -22,7 +22,7 @@
     "postcss": "8.4.28",
     "react": "19.1.0",
     "react-dom": "19.0.0",
-    "typescript": "5.8.2",
+    "typescript": "5.9.3",
     "viem": "2.23.5",
     "wagmi": "2.14.16"
   },
